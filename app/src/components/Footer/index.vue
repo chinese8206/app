@@ -7,7 +7,7 @@
           <ul class="footerItemCon">
             <li>购物流程</li>
             <li>我的介绍</li>
-            <li>生活旅行/团购</li>
+            <li>生活旅行</li>
             <li>常见问题</li>
             <li>购物指南</li>
           </ul>
